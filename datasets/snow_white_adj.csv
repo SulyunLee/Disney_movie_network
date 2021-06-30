@@ -1,0 +1,12 @@
+﻿,Snow White,Queen,Dopey,Grumpy,Bashful,Sneezy,Huntsman,Happy,Doc,Sleepy,Prince
+Snow White,0,-1,1,1,1,1,1,1,1,1,1
+Queen,,0,-1,-1,-1,-1,-1,-1,-1,-1,0
+Dopey,,,0,1,1,1,0,1,1,1,1
+Grumpy,,,,0,1,1,0,1,1,1,1
+Bashful,,,,,0,1,0,1,1,1,1
+Sneezy,,,,,,0,0,1,1,1,1
+Huntsman,,,,,,,0,0,0,0,0
+Happy,,,,,,,,0,1,1,1
+Doc,,,,,,,,,0,1,1
+Sleepy,,,,,,,,,,0,1
+Prince,,,,,,,,,,,0

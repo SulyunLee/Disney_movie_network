@@ -1,0 +1,12 @@
+﻿,Russell,Carl Fredricksen,Dug,Ellie Fredricksen,Charles Muntz,Kevin,Construction Worker Steve,Alpha,Beta,Omega,Epsilon
+Russell,0,1,1,0,-1,1,0,-1,-1,-1,-1
+Carl Fredricksen,,0,1,1,-1,1,-1,-1,-1,-1,-1
+Dug,,,0,0,-1,1,0,-1,-1,-1,-1
+Ellie Fredricksen,,,,0,0,0,0,0,0,0,0
+Charles Muntz,,,,,0,-1,0,1,1,1,1
+Kevin,,,,,,0,0,-1,-1,-1,-1
+Construction Worker Steve,,,,,,,0,0,0,0,0
+Alpha,,,,,,,,0,1,1,1
+Beta,,,,,,,,,0,1,1
+Omega,,,,,,,,,,0,1
+Epsilon,,,,,,,,,,,0
