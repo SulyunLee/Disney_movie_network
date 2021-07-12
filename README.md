@@ -1,10 +1,10 @@
 # Disney movie networks
 ## Summary
 This repository provides the network datasets that represent the characters' relationships in Disney movies. 
-In networks, the nodes are the characters appeared in movies and the edges are the co-appearance of node pairs in the same scene who communicated with each other at least one time. The edges have weights that represent the positive or negative relationships between nodes. Two nodes with a positive edge (weight=1) have supportive relationships in the movie, whereas two nodes with a negative edge (weight=-1) have opposing relationships. 
+In networks, the nodes are the characters that appeared in movies, and the edges are the co-appearance of node pairs in the same scene who communicated with each other at least one time. The edges have weights that represent the positive or negative relationships between nodes. Two nodes with a positive edge (weight=1) have supportive relationships in the movie, whereas two nodes with a negative edge (weight=-1) have opposing relationships. The plot distinguishes the positive and negative relationships by coloring edges blue and red, respectively.
 
-The script `generate_network.py` plots the networks based on the input adjacency matrix of characters and provides some network statistics. To run the code, adjacency matrix saved as `.csv` format should be located in `datasets/` folder. The code generates network plot and saves in `plots/` folder.
-The following is the example of running the script.
+The script `generate_network.py` plots the networks based on the input adjacency matrix of characters and provides some network statistics. To run the code, the adjacency matrix saved as `.csv` format should be located in `datasets/` folder. The code generates network visualizations and saves in `plots/` folder.
+The following is an example of running the script.
 ```
 python generate_network.py -filename jungle_book_adj.csv -title jungle_book
 ```
